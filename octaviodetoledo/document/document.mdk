@@ -56,7 +56,7 @@ other variables in the evacuation routes.
 [femtc2016]: https://github.com/thunderheadeng/femtc2016
 [emaillink]: mailto:conference@thunderheadeng.com "conference@thunderheadeng.com"
 
-# INTRODUCTION { #sec-intro }
+# Introduction { #sec-intro }
 The design of subway stations is far more complex than other infrastructures, such as buildings, as many of the factors 
 that define them vary strongly, such as the occupation load, which is dependent on the hour of the day, and the sources 
 of a fire as well.
@@ -71,6 +71,40 @@ Doors (PSD, from now on), as it is showed in **Figure 1.a**.
 ~
 
 [Fig 1.a]: images/Fig-1.a.jpg "Fig 1.a" { width:auto; max-width:60% }
+
+
+Figure 1.a.- Platform Screen Doors in Barcelona's subway (Line 9)
+
+The goal of PSD is to provide an automatic operation for the trains in a subway network. These trains operate 
+autonomously, without a driver, and are coordinated with the PSD in such a way that, when they arrive at the 
+platform of a station, both the PSD and the carriage doors open and close simultaneously.
+
+Fire safety is becoming more and more relevant in the design of infrastructures. In the case of a subway station, 
+a subway carriage constitutes the worst source of a fire, which may involve different parts of it and, therefore, 
+the heat release rate (HRR, from now on) and its distribution in time may be very different, depending on the part that ignites.
+
+The Firestarr project is a European research program that took place in 1997, aimed at studying the fire development 
+in rail and subway trains. This program stated that arson involving the interior of a train carriage was the main cause 
+for a fire in European trains. As far as the UK is referred, in the period from 1992 to 2000, 2.911 fires occurred in trains, 
+with a 77,8% of the total involving passenger trains. Arson was responsible for the 56% of these fires, which took place in 
+urban areas in the 90% of the cases.
+
+Some arson attacks in subway stations have caused multiple victims, as the case of the Daegu Subway (South Korea), which took 
+place in 2003, causing the death of 192 civilians.
+
+The goal of the present study is to carry out an assessment of the effect on the evacuation conditions in a subway station, 
+depending on the existence of PSD in an emergency situation because of a fire. Since arson has been documented as being the 
+main cause of a fire in a subway carriage, the present study is focused on fires caused by such event.
+
+# Subway stations
+
+In the present study, two types of stations have been considered:
+
+- Cut and Cover stations
+
+Their main feature is the great volume inside them, which allows enough space to have both the escalators and the stairs 
+in the platform, connecting to the mezzanine level, as shown in **Figures 2.a-b**.
+
 
 
 
