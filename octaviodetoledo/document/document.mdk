@@ -105,15 +105,106 @@ In the present study, two types of stations have been considered:
 Their main feature is the great volume inside them, which allows enough space to have both the escalators and the stairs 
 in the platform, connecting to the mezzanine level, as shown in **Figures 2.a-b**.
 
+~
+~ Center
+![Fig 2.a]
+~
+~ Center
+Figure 2.a.- Cut & Cover station of Crossrail Paddington station in London (I)
+~
+
+~
+
+
+[Fig 2.a]: images/Fig-2.a.jpg "Fig 2.a" { width:auto; max-width:50% }
 
 
 
-You are encouraged to use the [Madoko.net Editor][editor] while using
-the [Madoko Reference Manual][reference-manual] to edit/commit your
-documents into the 'authoring' branch of the [femtc2016] GitHub repository. 
-More information about this method of contribution will be covered below.
+
+~
+~ Center
+![Fig 2.b]
+~
+
+
+[Fig 2.b]: images/Fig-2.b.jpg "Fig 2.b" { width:auto; max-width:50% }
+
+~ Center
+Figure 2.c.- Cut & Cover station of Crossrail Paddington station in London (II)
+~
+
+
+- Cavern stations
+
+Their main feature is the lack of space inside them, which usually forces both 
+the escalators and stairs to be placed in other places, being connected to the 
+platforms through passageways, as shown in **Figures 2.c-d**.
+
+~ Center
+![Fig 2.c]
+~ 
+[Fig 2.c]: images/Fig-2.c.png "Fig 2.c" { width:auto; max-width:40% }
+
+~ Center
+Figure 2.d.- Design of subway station of Line 6 (Santiago, Chile) done by Geocontrol.
+~
+
+~ Center
+![Fig 2.d]
+~
+[Fig 2.d]: images/Fig-2.d.png "Fig 2.d" { width:auto; max-width:40% }
+
+~ Center
+Figure 2.e.- Platform in Line 5 Chueca station (Madrid, Spain)
+~
+
+The comparison of both types of stations lets one foresee that the behavior of the 
+smoke will probably be different in each station.
+
+# Modeling of the fire event
+
+In order to design correctly the fire safety requirements of a station, it is vital 
+to have an accurate fire event modelling. According to the European Standard EN 45545 
+and to the ASHRAE Handbook, a fire from a new, hardened vehicle of a train can have 
+an HRR of around 10 MW. The tests of fire behavior done in the Eureka project 
+framework allow to have the HRR of a subway carriage, as shown in **Figure 3.a**.
+
+~ Center
+![Fig 3.a]
+~
+[Fig 3.a]: images/Fig-3.a.jpg "Fig 3.a" { width:auto; max-width:45% }
+
+~ Center
+Figure 3.a.- HRR of a subway carriage
+~
+
+The HRR curve shown in Figure 3.a refers to a fire due to an arson attack 
+inside a subway carriage.
+
+The next step consists in creating a geometrical model that reproduces 
+the shape, volume and features of both types of stations, which has been 
+carried out with Pyrosim, as shown in **Figures 3.b-c**.
+
+~ Center
+![Fig 3.b]
+~
+[Fig 3.b]: images/Fig-3.b.png "Fig 3.b" { width:auto; max-width:45% }
+
+~ Center
+Figure 3.b.- Geometrical model for Cut & Cover station.
+~
+
+~ Center
+![Fig 3.c]
+~
+
+~ Center
+Figure 3.c.- Geometrical model for Cavern station.
+~
+[Fig 3.c]: images/Fig-3.c.png "Fig 3.c" { width:auto; max-width:45% }
 
 [Figura 1.a]: images/Figura-1.a.jpg "Figura 1.a" { width:auto; max-width:90% }
+
 
 Text styling, links, sub- and super-script, footnotes and other topics
 are covered in section [Syntax: Inline
