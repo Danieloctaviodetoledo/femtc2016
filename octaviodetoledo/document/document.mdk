@@ -24,10 +24,31 @@ name-references : REFERENCES
 [TITLE]
 
 ~ Abstract
-Papers should follow standard technical paper format, an abstract
-followed by the more detailed presentation. The abstract should be typed
-on this area of the first page, with the presentation following after two
-lines of space.
+
+
+Safety concerns are playing a determinant role in the design of infrastructures, such as subway stations. 
+Therefore, new solutions are being studied and analyzed in order to improve the global safety level.
+
+Among these solutions, platform screen doors (PSD) are having a key role, since their use offers important advantages, 
+especially when it comes to facing an emergency situation involving a fire in a subway carriage.
+
+As a consequence of the placement of PSD in subway stations, the ventilation strategy must be adapted, because 
+if there is a fire inside a subway carriage, part of the smoke can more easily be isolated from the passengers 
+in the platform. Thus, two possible scenarios can be assessed depending on the existence or not of PSD:
+
+- Without PSD: smoke can’t be isolated and, thus, it can spread all along the platform, being mostly extracted 
+through the tunnel by a ventilation shaft.
+
+- With PSD: part of the smoke can be isolated from the passengers in the platform and it is extracted by one of the 
+tunnel ventilation shafts. The remaining part is extracted by the station exhaust system.
+
+The shape of the station has also its relevancy in terms of safety, mainly because in a fire event, the buoyancy force 
+makes smoke head toward certain places where the evacuation routes may be placed.
+
+The aim of the present document is to carry out a comparison between both situations in terms of evacuation conditions 
+during a fire event. This way, it is possible to quantify and compare visibility, temperature, CO concentration and 
+other variables in the evacuation routes.
+
 ~
 
 [editor]: https://www.madoko.net/editor.html "Madoko.net Editor"
@@ -35,11 +56,30 @@ lines of space.
 [femtc2016]: https://github.com/thunderheadeng/femtc2016
 [emaillink]: mailto:conference@thunderheadeng.com "conference@thunderheadeng.com"
 
-# GENERAL INSTRUCTIONS { #sec-intro }
+# INTRODUCTION { #sec-intro }
+The design of subway stations is far more complex than other infrastructures, such as buildings, as many of the factors 
+that define them vary strongly, such as the occupation load, which is dependent on the hour of the day, and the sources 
+of a fire as well.
+
+Besides, more and more subway stations are being designed with cutting edge technology, as far as transportation is 
+concerned. There is an equipment that is increasingly being integrated in the stations: Platform Screen 
+Doors (PSD, from now on), as it is showed in **Figure 1.a**.
+
+~ Center
+![Fig 1.a]
+~
+~
+
+[Fig 1.a]: images/Fig-1.a.jpg "Fig 1.a" { width:auto; max-width:60% }
+
+
+
 You are encouraged to use the [Madoko.net Editor][editor] while using
 the [Madoko Reference Manual][reference-manual] to edit/commit your
 documents into the 'authoring' branch of the [femtc2016] GitHub repository. 
 More information about this method of contribution will be covered below.
+
+[Figura 1.a]: images/Figura-1.a.jpg "Figura 1.a" { width:auto; max-width:90% }
 
 Text styling, links, sub- and super-script, footnotes and other topics
 are covered in section [Syntax: Inline
