@@ -1,6 +1,6 @@
 [INCLUDE=style/lncs]
 Title         : EVACUATION CONDITIONS DURING AN EMERGENCY IN A SUBWAY STATION DEPENDING ON THE EXISTENCE OF PLATFORM SCREEN DOORS
-Subtitle      : An optional subtitle.
+Subtitle      : 
 
 Author        : Daniel Octavio de Toledo
 Affiliation   : GEOCONTROL S.A.
@@ -68,12 +68,12 @@ Doors (PSD, from now on), as it is showed in **Figure 1.a**.
 ~ Center
 ![Fig 1.a]
 ~
+
+[Fig 1.a]: images/Fig-1.a.jpg "Fig 1.a" { width:auto; max-width:55% }
+
+~ Center
+**Figure 1.a.- Platform Screen Doors in Barcelona's subway (Line 9).**
 ~
-
-[Fig 1.a]: images/Fig-1.a.jpg "Fig 1.a" { width:auto; max-width:60% }
-
-
-Figure 1.a.- Platform Screen Doors in Barcelona's subway (Line 9)
 
 The goal of PSD is to provide an automatic operation for the trains in a subway network. These trains operate 
 autonomously, without a driver, and are coordinated with the PSD in such a way that, when they arrive at the 
@@ -100,17 +100,18 @@ main cause of a fire in a subway carriage, the present study is focused on fires
 
 In the present study, two types of stations have been considered:
 
-- Cut and Cover stations
+- **Cut and Cover stations.**
 
 Their main feature is the great volume inside them, which allows enough space to have both the escalators and the stairs 
 in the platform, connecting to the mezzanine level, as shown in **Figures 2.a-b**.
 
-~
+
 ~ Center
 ![Fig 2.a]
 ~
+
 ~ Center
-Figure 2.a.- Cut & Cover station of Crossrail Paddington station in London (I)
+**Figure 2.a.- Cut & Cover station of Crossrail Paddington station in London (I).**
 ~
 
 ~
@@ -130,11 +131,11 @@ Figure 2.a.- Cut & Cover station of Crossrail Paddington station in London (I)
 [Fig 2.b]: images/Fig-2.b.jpg "Fig 2.b" { width:auto; max-width:50% }
 
 ~ Center
-Figure 2.c.- Cut & Cover station of Crossrail Paddington station in London (II)
+**Figure 2.c.- Cut & Cover station of Crossrail Paddington station in London (II).**
 ~
 
 
-- Cavern stations
+- **Cavern stations.**
 
 Their main feature is the lack of space inside them, which usually forces both 
 the escalators and stairs to be placed in other places, being connected to the 
@@ -146,7 +147,7 @@ platforms through passageways, as shown in **Figures 2.c-d**.
 [Fig 2.c]: images/Fig-2.c.png "Fig 2.c" { width:auto; max-width:40% }
 
 ~ Center
-Figure 2.d.- Design of subway station of Line 6 (Santiago, Chile) done by Geocontrol.
+**Figure 2.d.- Design of subway station of Line 6 (Santiago, Chile) done by Geocontrol.**
 ~
 
 ~ Center
@@ -155,7 +156,7 @@ Figure 2.d.- Design of subway station of Line 6 (Santiago, Chile) done by Geocon
 [Fig 2.d]: images/Fig-2.d.png "Fig 2.d" { width:auto; max-width:40% }
 
 ~ Center
-Figure 2.e.- Platform in Line 5 Chueca station (Madrid, Spain)
+**Figure 2.e.- Platform in Line 5 Chueca station (Madrid, Spain).**
 ~
 
 The comparison of both types of stations lets one foresee that the behavior of the 
@@ -175,7 +176,7 @@ framework allow to have the HRR of a subway carriage, as shown in **Figure 3.a**
 [Fig 3.a]: images/Fig-3.a.jpg "Fig 3.a" { width:auto; max-width:45% }
 
 ~ Center
-Figure 3.a.- HRR of a subway carriage
+**Figure 3.a.- HRR of a subway carriage.**
 ~
 
 The HRR curve shown in Figure 3.a refers to a fire due to an arson attack 
@@ -191,7 +192,7 @@ carried out with Pyrosim, as shown in **Figures 3.b-c**.
 [Fig 3.b]: images/Fig-3.b.png "Fig 3.b" { width:auto; max-width:45% }
 
 ~ Center
-Figure 3.b.- Geometrical model for Cut & Cover station.
+**Figure 3.b.- Geometrical model for Cut & Cover station.**
 ~
 
 ~ Center
@@ -199,7 +200,7 @@ Figure 3.b.- Geometrical model for Cut & Cover station.
 ~
 
 ~ Center
-Figure 3.c.- Geometrical model for Cavern station.
+**Figure 3.c.- Geometrical model for Cavern station.**
 ~
 [Fig 3.c]: images/Fig-3.c.png "Fig 3.c" { width:auto; max-width:45% }
 
@@ -212,7 +213,7 @@ carried out between two ventilation strategies in a Cut & Cover station and in a
 Cavern station in case of a fire event due to an arson attack in the inside of a 
 carriage.
 
-- Strategy S.T. A
+- **Strategy S.T. A.**
 
 There are PSD in the platform, isolating the platform from the trackway when 
 there is no train in the station. In this case, a train has just arrived to 
@@ -234,10 +235,10 @@ placed in the high part of the platform, as it is shown in the **Figure 3.d**.
 ~ Center
 ![Fig 3.d]
 ~
-[Fig 3.d]: images/Fig-3.d.jpg "Fig 3.d" { width:auto; max-width:45% }
+[Fig 3.d]: images/Fig-3.d.jpg "Fig 3.d" { width:auto; max-width:50% }
 
 ~ Center
-Figure 3.d. – Exhaust grids in the M5 subway line in Milan (Italy).
+**Figure 3.d. – Exhaust grids in the M5 subway line in Milan (Italy).**
 ~
 
 The exhaust rates have been calculated with the formulas included in the NFPA 92 
@@ -249,10 +250,10 @@ and are the following ones:
 [Table 3.I]: images/Table-3.I.jpg "Table 3.I" { width:auto; max-width:35% }
 
 ~ Center
-Table 3.I.- Exhaust rates in the cases with PSD in the stations.
+**Table 3.I.- Exhaust rates in the cases with PSD in the stations.**
 ~
 
-- Strategy S.T. B.
+- **Strategy S.T. B.**
 
 In this case, there are no PSD in any of the stations.
 
@@ -273,7 +274,7 @@ Thus, the exhaust rate considered is the following one:
 [Table 3.II]: images/Table-3.II.jpg "Table 3.II" { width:auto; max-width:22% }
 
 ~ Center
-Table 3.II. – Exhaust rates in the cases without PSD in the stations.
+**Table 3.II. – Exhaust rates in the cases without PSD in the stations.**
 ~
 
 # Assessment
@@ -289,7 +290,7 @@ health of the passengers, as shown in Tables 4.I**text** and **4.II**.
 [Table 4.I]: images/Table-4.I.jpg "Table 4.I" { width:auto; max-width:40% }
 
 ~ Center
-Table 4.I. – Maximum exposure time to high levels of temperature.
+**Table 4.I. – Maximum exposure time to high levels of temperature.**
 ~
 
 ~ Center
@@ -298,7 +299,7 @@ Table 4.I. – Maximum exposure time to high levels of temperature.
 [Table 4.II]: images/Table-4.II.jpg "Table 4.II" { width:auto; max-width:40% }
 
 ~ Center
-Table 4.II. – Maximum exposure time to high levels of CO concentration.
+**Table 4.II. – Maximum exposure time to high levels of CO concentration.**
 ~
 
 The visibility affects the evacuation process, since a reduced level of this variable 
@@ -315,7 +316,7 @@ Some devices for the control of temperature, CO concentration and visibility hav
 placed all along each platform, so that their value can be known in the egress routes 
 and inside the carriages during the fire.
 
-- Main differences between both strategies.
+- **Main differences between both strategies.**
 
 The fire takes place in the inside of the last carriage on the right, as shown 
 in **Figure 4.1.a**.
@@ -326,7 +327,7 @@ in **Figure 4.1.a**.
 [Fig 4.1.a]: images/Fig-4.1.a.JPG "Fig 4.1.a" { width:auto; max-width:80% }
 
 ~ Center
-Figure 4.1.a. – Cut & Cover fire model created with Pyrosim.
+**Figure 4.1.a. – Cut & Cover fire model created with Pyrosim.**
 ~
 
 In the case of strategy S.T. A, the passengers on the platform PL. B are completely 
@@ -341,7 +342,7 @@ the situation described with the strategy S.T. A.
 - **Means of egress**.
 
 The passengers on each platform have four escape routes (E.R., from now on), as shown 
-in Figure 4.1.a.
+in **Figure 4.1.a**.
 
 -	E.R. 1: toward the emergency door on the right side.
 -	E.R. 2: toward the escalators and stairs on the right side.
@@ -364,7 +365,7 @@ and visibility.  In both strategies it has been verified that smoke tend to move
 upper level of the platforms because of the buoyancy effect. Thus, lethal levels of 
 temperature and CO concentration are only reached inside the vandalized carriage, as 
 shown in Figure 4.1.b, or in the highest part of the platform, far from a passenger, 
-as shown in Figure 4.1.c.
+as shown in **Figure 4.1.c**.
 
 ~ Center
 ![Fig 4.1.b]
@@ -372,7 +373,7 @@ as shown in Figure 4.1.c.
 [Fig 4.1.b]: images/Fig-4.1.b.jpg "Fig 4.1.b" { width:auto; max-width:55% }
 
 ~ Center
-Figure 4.1.b. – Average temperature in the vandalized carriage at a height of 2m.
+**Figure 4.1.b. – Average temperature in the vandalized carriage at a height of 2m.**
 ~
 
 The reason for the rapid decrease of the temperature in the inside of the carriage 
@@ -385,12 +386,12 @@ allowing the smoke to leave the carriage through these places.
 [Fig 4.1.c]: images/Fig-4.1.c.png "Fig 4.1.c" { width:auto; max-width:55% }
 
 ~ Center
-Figure 4.1.c. – Temperature in Cut & Cover stations without PSD 
-(t=6min, 80ºC in bold).
+**Figure 4.1.c. – Temperature in Cut & Cover stations without PSD 
+(t=6min, 80ºC in bold).**
 ~
 
 The highest levels of temperature in the platform without PSD are of 150ºC, 
-but at a height far from any passenger, as Figure 4.1.c shows.
+but at a height far from any passenger, as **Figure 4.1.c** shows.
 
 The highest temperatures that passengers must face without PSD are of 80ºC 
 in the stairs on the right side of the platform, but during less time than 
@@ -414,7 +415,7 @@ are harsher.
 [Fig 4.1.d]: images/Fig-4.1.d.jpg "Fig 4.1.d" { width:auto; max-width:55% }
 
 ~ Center
-Figure 4.1.d. – Average visibility in front of vandalized carriage at a height of 2m.
+**Figure 4.1.d. – Average visibility in front of vandalized carriage at a height of 2m.**
 ~
 
 Finally, the comparison of the percentage of platform where visibility is less 
@@ -426,7 +427,7 @@ than 10m has great differences between both strategies, as presented in Figure 4
 [Fig 4.1.e]: images/Fig-4.1.e.jpg "Fig 4.1.e" { width:auto; max-width:55% }
 
 ~ Center
-Figure 4.1.e. – % of platform with less than 10m of visibility at a height of 2m.
+**Figure 4.1.e. – % of platform with less than 10m of visibility at a height of 2m.**
 ~
 
 - Evacuation time
@@ -457,7 +458,7 @@ stations is focused on a geometry where there is only one platform.
 
 Some devices for the control of temperature, CO concentration and visibility have 
 been placed all along the escape routes. The fire takes place in the last carriage 
-on the right, as shown in Figure 4.2.a.
+on the right, as shown in **Figure 4.2.a**.
 
 ~ Center
 ![Fig 4.2.a]
@@ -465,10 +466,10 @@ on the right, as shown in Figure 4.2.a.
 [Fig 4.2.a]: images/Fig-4.2.a.JPG "Fig 4.2.a" { width:auto; max-width:55% }
 
 ~ Center
-Figure 4.2.a. – Cavern fire model created with Pyrosim.
+**Figure 4.2.a. – Cavern fire model created with Pyrosim.**
 ~
 
-- Main differences between both strategies
+- **Main differences between both strategies.**
 
 The volume included in the platform is much smaller than in the case of the 
 Cut & Cover station. Then, the main difference between both strategies is the 
@@ -486,7 +487,7 @@ The passengers have four means of egress:
 
 The region in front of the vandalized carriage is the one most affected by the fire.
 
-- Development of the fire.
+- **Development of the fire.**
 
 The beginning of the fire is similar to the case of Cut & Cover stations: the smoke 
 manages to get to every carriage, since they are connected to each other. Besides, 
@@ -505,7 +506,7 @@ the required time to become incapacitated.
 [Fig 4.2.b]: images/Fig-4.2.b.jpg "Fig 4.2.b" { width:auto; max-width:55% }
 
 ~ Center
-Figure 4.2.b. – Average temperature in the vandalized carriage.
+**Figure 4.2.b. – Average temperature in the vandalized carriage.**
 ~
 
 The maximum temperature registered in the platform without PSD is 200ºC, but 
@@ -515,13 +516,15 @@ but close to the vandalized carriage.
 
 
 ~ Center
-![Fig 4.2.c]
+![Fig 4.2.cant]
 ~
-[Fig 4.2.c]: images/Fig-4.2.c.png "Fig 4.2.c" { width:auto; max-width:40% }
+[Fig 4.2.cant]: images/Fig-4.2.cant.png "Fig 4.2.cant" { width:auto; max-width:45% }
 
 ~ Center
-Figure 4.2.c. – Temperature in Cavern stations without PSD (t=6min, 80ºC in bold).
+**Figure 4.2.c. – Temperature in Cavern stations without PSD (t=6min, 80ºC in bold).**
 ~
+
+[Fig 4.2.c]: images/Fig-4.2.c.png "Fig 4.2.c" { width:auto; max-width:90% }
 
 However, the visibility is quite affected because of the spread of the smoke, as 
 it is shown in Figure 4.3.c in the region of the platform in front of the vandalized 
@@ -533,7 +536,7 @@ carriage, as it is where the conditions are harder.
 [Fig 4.2.c]: images/Fig-4.2.c.jpg "Fig 4.2.c" { width:auto; max-width:50% }
 
 ~ Center
-Figure 4.2.c. – Average visibility in front of vandalized carriage.
+**Figure 4.2.d. – Average visibility in front of vandalized carriage.**
 ~
 
 The comparison between % of platform with less than 10m of visibility offers 
@@ -545,10 +548,10 @@ great differences, as presented in Figure 4.2.d.
 [Fig 4.2.d]: images/Fig-4.2.d.jpg "Fig 4.2.d" { width:auto; max-width:50% }
 
 ~ Center
-Figure 4.2.d. – % of platform with less than 10m of visibility at a height of 2m.
+**Figure 4.2.e. – % of platform with less than 10m of visibility at a height of 2m.**
 ~ 
 
-- Evacuation time.
+- **Evacuation time.**
 
 The software Pathfinder has been used as well for this simulation. The occupation 
 load considered is 320 passengers in the platform and 60 passengers in the train.
@@ -616,16 +619,3 @@ Alexander Claesson, Johan Lindström, Ying Zhen Li, Mia Kumm, Haukur Ingason).
 
 [6] Estudio de preinversión a nivel de perfil de la línea 4 de metro de Lima. 
 Ventilation design report.
-
-
-
-
-# BIBLIOGRAPHY AND REFERENCES
-
-When using Madoko, edit the content of the .bib file in the document
-folder, and use the reference methods as shown in the [Bibliography and
-Citations
-Section](http://research.microsoft.com/en-us/um/people/daan/madoko/doc/reference.html#sec-bib)
-of the Madoko Manual.
-
-
