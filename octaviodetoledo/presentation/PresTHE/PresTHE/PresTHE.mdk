@@ -213,6 +213,86 @@ Tracks: 7,5m (wide).
 
 [Fig 4.1.c]: images/Fig-4.1.c.png "Fig 4.1.c" { width:auto; max-width:70% }
 
+## 4.2- Cut & Cover stations (IV)
+
+
+* Development of the fire.
+
+  - Highest T passengers face: 80ºC in the stairs (no PSD) and close to PSD (with PSD).
+  - Visibility: great differences in front of the carriage.
+
+
+
+![Fig 4.1.d]
+
+[Fig 4.1.d]: images/Fig-4.1.d.jpg "Fig 4.1.d" { width:auto; max-width:60% }
+
+
+## 4.2- Cut & Cover stations (V)
+
+
+* Development of the fire.
+
+  - Visibility: great differences all along the platforms.
+
+
+![Fig 4.1.e]
+
+[Fig 4.1.e]: images/Fig-4.1.e.jpg "Fig 4.1.e" { width:auto; max-width:70% }
+
+
+## 4.2- Cut & Cover stations (VI)
+
+
+* Evacuation simulation with Pathfinder.
+
+  - Occupation load: 380 p./platform + 60 p./train.
+
+  - Time to react: variable.
+
+  - Smoke makes passengers move slower.
+
+  - Escalator on the right side on the most affected platform: out of service.
+
+  - Similar time needed for evacuation: 140s (with PSD) and 148s (without PSD).
+
+    - Passengers react quickly, low occupation load: they are barely affected by the smoke.
+
+    - Harsh conditions: only without PSD, on the stairs.
+
+
+## 4.3- Cavern stations (I)
+
+
+* Model created with Pyrosim.
+
+
+
+![Fig 4.2.a]
+
+[Fig 4.2.a]: images/Fig-4.2.a.JPG "Fig 4.2.a" { width:auto; max-width:80% }
+
+* Means of egress.
+
+  - An emergency door on each side of the platform.
+
+  - Two passageways.
+
+
+## 4.3- Cut & Cover stations (II)
+
+
+* Development of the fire.
+
+  - The same conditions as in C&C stations.
+
+
+
+
+
+
+
+
 
 
 # Madoko Presentation
